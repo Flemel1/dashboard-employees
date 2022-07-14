@@ -1,0 +1,12 @@
+.salary__charts {
+    width: 100%;
+    display: flex;
+}
+
+.salary__charts__all {
+    width: 100%;
+}
+
+.salary__charts__year {
+    width: 100%;
+}

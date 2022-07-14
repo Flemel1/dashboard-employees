@@ -1,0 +1,13 @@
+header {
+    background-color: blue;
+}
+
+.header__list {
+    margin-right: 2rem;
+    margin-left: 2rem;
+    padding: 2rem 0;
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    color: white;
+}

@@ -1,0 +1,12 @@
+.employee__charts {
+    width: 100%;
+    display: flex;
+}
+
+.employee__charts__all {
+    width: 100%;
+}
+
+.employee__charts__year {
+    width: 100%;
+}

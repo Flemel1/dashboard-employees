@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+@import "./header.css";
+@import "./loader.css";
+@import "./salary.css";
+@import "./employee.css";
